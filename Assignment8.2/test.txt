@@ -1,0 +1,23 @@
+customer
+101
+Charlie Brown
+New York
+preferred customer
+200
+Elizabeth Taylor
+Los Angeles
+41300.00
+customer
+103
+Nhan Nguyen
+Helsinki
+preferred customer
+104
+Quan Nguyen
+USA
+234.565
+preferred customer
+105
+Hau Pham
+USA
+657.89

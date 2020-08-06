@@ -1,0 +1,18 @@
+.button{
+    -fx-text-fill: #009F75;
+    -fx-border-color: black;
+    -fx-border-radius: 5;
+    -fx-padding: 3 6 6 6;
+    -fx-effect: dropshadow( one-pass-box , black , 8 , 0.0 , 2 , 0 );
+}
+
+.label{
+    -fx-font: 12px Tahoma;
+    -fx-fill: linear-gradient(from 0% 0% to 100% 200%, repeat, aqua 0%, red 50%);
+    -fx-stroke: #331a1a;
+    -fx-stroke-width: 1;
+}
+
+.backgroundColor{
+    -fx-background-color:D4D4D4;
+}

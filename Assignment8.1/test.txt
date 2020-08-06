@@ -1,0 +1,21 @@
+1).Here you do not need a graphical user interface. Write a program that asks a word from the user and the 
+program prints out from a text file all the lines, which contains the word. The name (and path) of the text 
+file is asked from the user.
+
+2). Here you do not need a graphical user interface. In a text file, there is data of customers so that first is 
+the type of the customer (customer or preferred customer), then customer number, name, address and for 
+preferred customers also purchases, every value on its own line, for example
+
+Use your classes of assignment 5.2 to describe the characteristics of different customers. Write a program 
+that reads the data from the text file, creates objects, and adds objects to an ArrayList. Print out all the 
+objects in the end. The name (and path) of the text file can be written in the program code.
+
+3) Write a program with GUI to handle orders (assignment 4.1). The products and their prices are in a text 
+file and the program reads those when it starts. The user can create a new order and add order lines 
+(products) to the order. Orders are stored in a collection (ArrayList or HashMap). The user can also search 
+orders by the order number. The program has a File menu with items New, Open and Save As. You can use 
+ObjectOutputStream and ObjectInputStream to serialize the whole collection to/from a file.
+
+As an attachment of the assignment, you’ll find a zip file. In the zip file, there is a readymade class for the 
+graphical user interface and it also reads the products and their prices from the text file. You can use this 
+class if you want and implement those parts marked with TODO comment.
